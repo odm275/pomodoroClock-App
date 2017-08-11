@@ -1,0 +1,19 @@
+p{
+  text-align: center;
+  font-size:30px;
+  color:white;
+}
+button{
+  width:100%;
+  background-color: rgb(255,165,0);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  font-size:30px;
+}
+.row{
+  padding:50px;
+}
+body{
+  background-color: black;
+}
